@@ -1,0 +1,113 @@
+{
+  "defaultVariant": "general",
+  "variants": {
+    "general": {
+      "name": "Alex Doe",
+      "role": "Product & AI Strategy Leader",
+      "summary": "Product leader focused on shipping trustworthy AI experiences. I blend strategy, execution, and facilitation to help teams ship quickly while keeping customers at the center.",
+      "contact": {
+        "lines": [
+          "San Francisco, CA • (415) 555-0198",
+          "alex.doe@email.com • alexd.dev",
+          "linkedin.com/in/alexdoe"
+        ]
+      },
+      "skills": [
+        "Roadmapping & prioritization",
+        "AI safety & evaluation",
+        "Product discovery",
+        "Experiment design",
+        "Research synthesis",
+        "Storytelling & facilitation",
+        "Stakeholder alignment",
+        "Data-informed decisioning",
+        "Team leadership"
+      ],
+      "experience": [
+        {
+          "title": "Director of Product, AI Experiences",
+          "location": "Northbeam • 2022 – Present",
+          "period": "San Francisco, CA",
+          "bullets": [
+            "Lead AI product strategy for marketing intelligence suite serving 1,200+ brands.",
+            "Shipped conversational analysis workflows that reduced manual reporting time by 45%.",
+            "Partnered with legal and security teams to roll out responsible AI guardrails for all experiments.",
+            "Built evaluation harness combining synthetic data and human review to measure model quality weekly.",
+            "Coached PMs and designers on prompt design, model debugging, and fast experiment loops."
+          ],
+          "tags": ["LLM evaluations", "Product strategy", "Team leadership"]
+        },
+        {
+          "title": "Senior Product Manager, Core Platform",
+          "location": "AtlasOS • 2019 – 2022",
+          "period": "Remote",
+          "bullets": [
+            "Owned roadmap for collaboration layer used by 300k monthly active users.",
+            "Ran discovery with enterprise admins; prioritized permissions overhaul that cut support tickets by 30%.",
+            "Instrumented feature health metrics and led weekly operational reviews with engineering leads.",
+            "Partnered with customer success to pilot onboarding revamp, improving activation by 12%."
+          ],
+          "tags": ["SaaS", "Operational cadence", "Customer research"]
+        },
+        {
+          "title": "Product Manager, Growth",
+          "location": "Brightline • 2017 – 2019",
+          "period": "New York, NY",
+          "bullets": [
+            "Launched referral and win-back programs that increased weekly signups by 18%.",
+            "Shipped lifecycle email framework tied to user milestones; improved free-to-paid conversion by 9%.",
+            "Created analytics dashboards tracking activation, retention, and engagement across cohorts."
+          ],
+          "tags": ["Growth loops", "Lifecycle messaging", "Experimentation"]
+        },
+        {
+          "title": "Consultant, Product Operations",
+          "location": "Independent • 2015 – 2017",
+          "period": "Remote",
+          "bullets": [
+            "Advised seed-stage teams on OKR design, decision rituals, and customer interview programs.",
+            "Facilitated roadmap alignment workshops for cross-functional leadership teams.",
+            "Created lightweight scorecards to evaluate experiment impact before build."
+          ],
+          "tags": ["Workshops", "OKRs", "Decision quality"]
+        }
+      ],
+      "projects": [
+        {
+          "title": "AI Evaluation Playbook",
+          "location": "Personal research",
+          "period": "2024",
+          "bullets": [
+            "Designed repeatable rubric for LLM feature launches covering safety, reliability, and UX quality.",
+            "Open-sourced prompt libraries and test suites used by 3 product teams."
+          ],
+          "tags": ["Evaluation", "Prompting", "Open source"]
+        },
+        {
+          "title": "Discovery Workshop Kit",
+          "location": "Facilitation toolkit",
+          "period": "2023",
+          "bullets": [
+            "Packaged Miro templates, scripts, and research briefs to help teams run 90-minute discovery sessions.",
+            "Adopted by 12 startups to accelerate customer learning."
+          ],
+          "tags": ["Facilitation", "Templates"]
+        }
+      ],
+      "education": [
+        {
+          "title": "MBA, Strategy & Operations",
+          "location": "UC Berkeley, Haas School of Business",
+          "period": "2015",
+          "bullets": ["Product leadership fellow; led design thinking workshops for incoming students."]
+        },
+        {
+          "title": "B.S. Cognitive Science",
+          "location": "University of Washington",
+          "period": "2010",
+          "bullets": ["Research assistant in human-computer interaction lab."]
+        }
+      ]
+    }
+  }
+}
